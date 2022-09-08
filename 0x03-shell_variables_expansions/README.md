@@ -9,3 +9,4 @@ Global variable
 Every addition to true knowledge is an addition to human power
 Divide and rule
 Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
+There are 10 types of people in the world
