@@ -11,3 +11,4 @@ Divide and rule
 Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
 There are 10 types of people in the world
 Combination
+Floats
